@@ -6,7 +6,7 @@ Um aplicativo moderno de lista de tarefas (To-Do) desenvolvido com Flutter, com 
 
 > 💡 Totalmente compatível com o [FlutLab](https://flutlab.io)
 
-📽️ [Clique aqui para baixar e assistir à demonstração](./video_aplicacao.mp4)
+📽️ [Clique aqui para baixar e assistir à demonstração](./Gravação de Tela 2025-06-22 210721.mp4)
 
 ---
 
